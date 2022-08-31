@@ -21,6 +21,7 @@ body {
     font-size: 28px;
     position: absolute;
     width: 100%;
+    text-align: justify;
 }
 
 p.visible {
